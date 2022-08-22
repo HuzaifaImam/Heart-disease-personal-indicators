@@ -13,4 +13,5 @@ Based on our analysis of the distribution of the variables in the dataset, we fo
 
 ## Key Insights for Presentation
 
-They key insights that will be presented include the correlation matrix, findings from the multivariate pair plot and many more
+I started off by visualising the distribution of our outcome of interest, i.e Heart disease, accross the research population, then gender and finally, by ethnicity. I then analysed the data further to get an insight into the prevalence of smoking and alcoholism within the study population, which are key risk factors not only for heart disease but also for stroke. I also looked at the prevalence of stroke within the research population. I also considered a better way to present the BMI by classifying the scores into categories, thereby adding a new column to the dataframe.
+I used a correlation heatmap inorder to investigate correlation between the numerical variables, I also utilised a pairplot to look into the distribution of the risk factors of heart disease within different BMI categories
